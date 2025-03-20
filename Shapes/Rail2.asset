@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086fadc7a285ece40a7c384fb106a4d0, type: 3}
+  m_Name: Rail2
+  m_EditorClassIdentifier: 
+  Vertices:
+  - Position: {x: 0, y: 0.75}
+    Normal: {x: 0, y: 1}
+    U: 0
+  - Position: {x: 0.5, y: 0.5}
+    Normal: {x: 0.5, y: 0.5}
+    U: 0.1428
+  - Position: {x: 0.75, y: 0}
+    Normal: {x: 0.75, y: 0}
+    U: 0.2857
+  - Position: {x: 0.5, y: -0.5}
+    Normal: {x: 0.5, y: -0.5}
+    U: 0.4285
+  - Position: {x: 0, y: -0.75}
+    Normal: {x: 0, y: -0.75}
+    U: 0.5714
+  - Position: {x: -0.5, y: -0.5}
+    Normal: {x: -0.75, y: -0.5}
+    U: 0.625
+  - Position: {x: -0.75, y: 0}
+    Normal: {x: -1, y: 0}
+    U: 0.7142
+  - Position: {x: -0.5, y: 0.5}
+    Normal: {x: -0.75, y: 0.5}
+    U: 0.8571
+  - Position: {x: 0, y: 0.75}
+    Normal: {x: 0, y: 1}
+    U: 1
+  Lines: 01000000000000000200000001000000030000000200000004000000030000000500000004000000060000000500000007000000060000000800000007000000
