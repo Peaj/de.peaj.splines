@@ -41,7 +41,7 @@ public class Spline : MonoBehaviour {
     {
         get
         {
-            return loop;
+            return this.loop;
         }
         set
         {
