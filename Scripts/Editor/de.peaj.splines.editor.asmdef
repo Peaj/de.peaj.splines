@@ -1,0 +1,17 @@
+{
+    "name": "de.peaj.splines.editor",
+    "references": [
+        "GUID:15ddeaeeb6ac8774c86484cd67071ba2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
